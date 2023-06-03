@@ -1,0 +1,89 @@
+p {
+    color: blue;
+}
+
+h1 {
+    color: brown;
+}
+
+em {
+    color: darkmagenta;
+}
+
+h2 {
+    color: teal;
+}
+
+table {
+    color: maroon;
+    font-size: 30px;
+}
+
+.one {
+    color: darkslategrey;
+}
+
+div {
+    color: darkblue;
+    text-align: justify;
+
+}
+
+.na {
+    color: brown;
+    text-align: center;
+}
+
+.ne {
+    color: #000;
+    text-align: center;
+}
+
+audio {
+    text-align: center;
+}
+
+.no {
+    text-align: center;
+}
+
+.ak {
+    color: blue;
+    text-align: center;
+}
+
+.ma {
+    text-align: end;
+}
+
+body {
+    background-image: url("imgss/سماء-صافية-4.jpg");
+}
+
+a {
+    color: crimson;
+    font-size: 30px;
+}
+
+.nour1 {
+    color: brown;
+    text-align: center;
+
+}
+
+.no2 {
+    text-align: justify;
+
+}
+
+p {
+    color: chocolate;
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb(20, 23, 220);
+    background-size: cover;
+    background-image: url("imgss/سماء-صافية-4.jpg");
+}
+
